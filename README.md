@@ -28,6 +28,8 @@ pip install -r requirements.txt
 python .\script.py
 ```
 
+5. Fornecer as informações solicitadas no terminal (link do vídeo ou playlist para baixar).
+
 <br/>
 
 - Observação: Se der erro no passo 2, abrir o terminal do computador como administrador e rodar o comando:
